@@ -1,0 +1,85 @@
+body{
+background-image: url(file:///Users/igorliotta/Desktop/MaterialeEsercizioLim/background.jpg);
+background-position: center center;
+background-size: cover;
+}
+
+
+.intestazione{
+    color: #7CFC00;
+    width: 100%;
+    
+
+}
+    
+
+#logo{
+    width: 400px;
+   
+}
+
+nav{
+    background-color: #7CFC00;
+    padding: 5px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+
+}
+
+#quadrato{
+    display: inline-block;
+}
+
+#frase{
+    display: inline-block;
+    font-size: 28px;
+}
+
+#simbolo{
+    display: inline-block;
+}
+
+#indirizzo{
+    display: inline-block;
+}
+
+.spazio-arancio{
+    width: 49%;
+    border-radius: 5px;
+    background-color: orange;
+    display: inline-block;
+    height: 25px;
+}
+
+.spazio-verde{
+    width: 85%;
+    border-radius: 5px;
+    background-color: #7CFC00;
+    display: inline-block;
+    height: 25px;
+}
+
+.spazio-rosso{
+    width: 28%;
+    border-radius: 5px;
+    background-color: rgba(255, 0, 0, 0.6);
+    display: inline-block;
+    height: 25px;
+}
+
+.content{
+    max-width: 500px;
+    margin: auto;
+    padding: 10px;
+}
+
+.TOTALE{
+    transform: scale(0.8);
+    background-color: aqua;
+    background-color: rgba(0, 0, 0, .25);
+    color: white;
+    padding: 100px;
+}
+
+
